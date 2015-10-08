@@ -47,7 +47,7 @@
         "title" : {
           "type" : "string"
         },
-        "description" : {
+        "descri" : {
           "type" : "string"
         }
       }
