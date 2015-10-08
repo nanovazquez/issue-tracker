@@ -17,8 +17,8 @@
           "in" : "query",
           "description" : "number of issues to return",
           "type" : "integer",
-          "default" : 10,
-          "minimum" : 10,
+          "default" : 15,
+          "minimum" : 15,
           "maximum" : 10000
         } ],
         "responses" : {
